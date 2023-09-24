@@ -8,12 +8,12 @@ title {
 body {
     display: flex;
     flex-direction: column;
-    background-image: url("images/Bitmap7.jpg");
+    background-image: url("https://github.com/bvilane/alu-web-development/blob/master/Images/background.png?raw=true");
     /*background-color: rgba(7,22,41,0.8);*/
 }
 .flex-size_1 {
     flex: 2;
-    /*background-image: url("images/Bitmap7.png;*/
+    /*background-image: url("https://github.com/bvilane/alu-web-development/blob/master/Images/background.png?raw=true");*/
 }
 .flex-size_2 {
     flex: 10;
