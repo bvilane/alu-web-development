@@ -247,6 +247,8 @@ body {
 .third_section_div .flex_1 {
     display: flex;
     flex-direction: row;
+
+    
 }
 .third_section_div .flex_1 p {
     margin: -4px 0 0 90px;
