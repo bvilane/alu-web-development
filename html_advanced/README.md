@@ -1,19 +1,20 @@
+![Project Logo](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.webp)
+
 # My Web Design Project - Implementing HTML Structure from Figma
 
 Welcome to my Web Design Project! In this project, I will be implementing the HTML structure for a webpage based on a designer file available on Figma. This project focuses solely on creating the HTML structure, with no CSS or styling involved. It's all about semantic HTML.
 
 ## Project Details
 
-- **Designer File:** [View on Figma](https://www.figma.com/file/your-figma-file-link)
-- **Design Source:** Figma
-- **Fonts:** I will make sure to have the fonts installed or access them here: [Source Sans Pro](link-to-source-sans-pro-font) and [Spin Cycle OT](link-to-spin-cycle-ot-font)
-- **Rounding Values:** Some values in the designer file are in float; I will feel free to round them as needed.
+- **Designer File:** [View on Figma](https://www.figma.com/file/dyYL6Ku4WG7vsdpwvlcJZC/Homepage)
+- **Design Source:** [Download the Fig File](https://intranet.aluswe.com/rltoken/BOC4LSHhGgn-RudlXjuUKg)
+- **Rounding Values:** I will feel free to round them as needed.
 
 ## Getting Started
 
-1. **Access the Designer File:** To get started, I will visit the Figma designer file by clicking [here](https://www.figma.com/file/your-figma-file-link). If I don't have a Figma account, I can create one to access the design details.
+1. **Access the Designer File:** To get started, I will visit the Figma designer file by clicking [here](https://www.figma.com/file/dyYL6Ku4WG7vsdpwvlcJZC/Homepage). If I don't have a Figma account, I can create one to access the design details.
 
-2. **Duplicate to My Drafts:** After accessing the designer file, I will duplicate it to my drafts. This step will allow me to access all the design details I need for my project.
+2. **Download the Design Source:** I will download the Fig file from [this link](https://intranet.aluswe.com/rltoken/BOC4LSHhGgn-RudlXjuUKg) to have access to all design details.
 
 ## Implementation
 
@@ -27,4 +28,5 @@ In this project, I will implement the HTML structure for the webpage based on th
 
 ## Project Completion
 
-Once I've completed the HTML structure based on the designer file, I can further enhance the project by adding CSS and styling to match the design's appearance. This project serves as the foundation for my future design and development work. 
+Once I've completed the HTML structure based on the designer file, I can further enhance the project by adding CSS and styling to match the design's appearance. This project serves as the foundation for my future design and development work.
+ 
